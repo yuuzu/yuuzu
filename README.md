@@ -10,5 +10,5 @@
   🌸 She/Her
 </pre>
 <br><br>
-<img src="https://cdn.discordapp.com/attachments/1084304411809030154/1329388987676360745/HelloKittyBooty.gif?ex=678a2979&is=6788d7f9&hm=18d944457003e5fe462ee5ee4c9cd7b7992f5614ecad48222294605436695e83&" height="40" />
+<img src="https://cdn.discordapp.com/attachments/1084304411809030154/1329389384377827413/Hellokitty.gif?ex=678a29d8&is=6788d858&hm=4757be242d4a347a155880cb65aa7279112de9bdf7ee063e6f6ec970eec663d6&" height="40" />
 </div>
